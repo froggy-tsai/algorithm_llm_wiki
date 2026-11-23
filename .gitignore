@@ -1,0 +1,5 @@
+# PDF page-rendering scratch files
+/tmp/
+
+# Obsidian window/session state
+.obsidian/workspace.json
